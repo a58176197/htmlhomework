@@ -1,0 +1,241 @@
+.bg {
+    padding-left: 0px;
+    padding-top: 0px;
+    width: 1260px;
+    height: 880px;
+    background-color: #edf2c5;
+  }
+  p{
+    margin: 0px;  
+    text-size-adjust:none;
+  }
+  .Top{
+    padding-left: 159px;
+    padding-right: 160px;
+    padding-top: 53px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+  }
+  .logo_Vegetables {
+    width: 271px;
+    height: 42px;
+    font-family: Arial;
+    text-decoration: none;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+  }
+  .btn_facebook {
+    padding-left: 469px;
+    width: 25px;
+    height: 25px;
+  }
+  .btn_instagram {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 25px;
+    height: 25px;
+  }
+  .line_login {
+    min-width: 1px;
+    height: 25px;
+    background-color: #778a50;
+  }
+  .btn_LOGIN {
+    margin-left: 10px;
+    width: 43px;
+    height: 10px;
+    border-radius: 3px;
+    padding: 7px 7px 6px 8px;
+    border: solid 1px #778a50;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 10px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+  }
+  .btn_JOIN_box {
+    width: 33px;
+    height: 10px;
+    padding: 7px 7px 6px 8px;
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 10px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+  }
+  .nav_box {
+    display: flex;
+    margin-top: 8px;
+    margin-left: 160px;
+    margin-right: 160px;
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+  .nav_body{
+    width: 50px;
+    height: 12px;
+    margin:16px 60px 16px 0px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 12px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+  }
+  .img_main_pumpkin {
+    margin-top: 20px;
+    margin-left: 160px;
+    margin-right: 160px;
+    width: 940px;
+    height: 448px;
+  }
+  .body_title_flex{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 160px;
+    margin-right: 160px;
+    width: 940px;
+    height: 44px;
+    flex-direction: row;
+    align-items:center;
+  }
+  .body_box{
+    border: solid 1px #778a50;
+    min-width: 445px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+  .img_body{
+    width: 140px;
+    height: 140px;
+    margin-right: 13px;
+  }
+  .body_flex{
+    display: flex;
+    flex-direction: row;
+    max-height: 140px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 15px;
+  }
+  .body_Contact{
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      max-width: 445px;
+      min-width: 445px;
+      max-height: 140px;
+      min-height: 140px;
+      border-radius: 3px;
+      border: solid 1px #f7fbda;
+      background-color: #f7fbda;
+  }
+  .footer{
+    width: 1260px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: #778a50;
+  }
+  .footer_text{
+      padding: 24px 0px 25px 479px;
+      min-width: 302px;
+      height: 10px;
+      font-family: Arial;
+      font-size: 12px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 10px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #edf2c5;
+  }
+  .Contact_text{
+    width: 410px;
+    height: 43px;
+    margin: 16px 20px 0px 15px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+  }
+  .line_Contact{
+    width: 414px;
+    min-height: 1.1px;
+    margin: 16px 15px 0px 16px;
+    background-color: #7d7d7d;
+  }
+  .Contact_information{
+    width: 193px;
+    max-height: 31px;
+    margin: 16px 0px 17px 15px;  
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+
+  }
+  .Vegetables{
+      padding : 15px 316px 15px 30px;
+      width: 99px;
+      height: 15px;
+      font-family: Arial;
+      font-size: 16px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 15px;
+      letter-spacing: normal;
+      text-align: left;
+      color: #edf2c5;
+  }
+  .Contact{
+    padding : 15px 316px 15px 30px;
+    width: 69px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 15px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+  }
