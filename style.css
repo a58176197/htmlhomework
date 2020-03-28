@@ -9,6 +9,9 @@
     margin: 0px;  
     text-size-adjust:none;
   }
+  a{
+    text-decoration: none;
+  }
   .Top{
     padding-left: 159px;
     padding-right: 160px;
@@ -90,6 +93,10 @@
     height: 44px;
     border-radius: 3px;
     background-color: #778a50;
+  }
+  .nav_ul{
+    display: flex;
+    flex-direction: row;
   }
   .nav_body{
     width: 50px;
